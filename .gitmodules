@@ -1,0 +1,18 @@
+[submodule "app/vendors/Slim"]
+	path = app/vendors/Slim
+	url = git://github.com/codeguy/Slim.git
+[submodule "app/vendors/Twig"]
+	path = app/vendors/Twig
+	url = git://github.com/fabpot/Twig.git
+[submodule "app/vendors/Slim-Extras"]
+	path = app/vendors/Slim-Extras
+	url = git://github.com/codeguy/Slim-Extras.git
+[submodule "app/vendors/idiorm"]
+	path = app/vendors/idiorm
+	url = git://github.com/j4mie/idiorm.git
+[submodule "app/vendors/paris"]
+	path = app/vendors/paris
+	url = git://github.com/j4mie/paris.git
+[submodule "app/vendors/yaml"]
+	path = app/vendors/yaml
+	url = git://github.com/fabpot/yaml.git

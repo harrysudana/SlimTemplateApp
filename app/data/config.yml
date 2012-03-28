@@ -1,0 +1,11 @@
+database:
+    host: localhost
+    name: dbname
+    user: dbuser
+    pass: dbpass
+site:
+  url: http://localhost/SlimTemplateApp
+  productlist: 10
+  media: asset
+  
+  
